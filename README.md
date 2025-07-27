@@ -1,6 +1,8 @@
 # LangGraph Complete Learning Repository
 
-A comprehensive educational repository for mastering LangGraph from fundamental graph concepts to advanced AI agent implementations. This repository provides a structured learning path through three progressive modules: foundational graph theory, AI-powered chatbots, and autonomous agent systems.
+A comprehensive educational repository for mastering LangGraph from fundamental graph concepts to advanced AI agent implementations. This repository provides a structured learning path through three progressive modules: foundational graph theory, AI-powered chatbots, and retrieval-augmented generation systems.
+
+> **📚 Course Material Source**: This repository is based on studying and implementing concepts from the comprehensive LangGraph tutorial: [**LangGraph Tutorial - Build AI Agents with Python**](https://www.youtube.com/watch?v=jGg_1h0qzaM). The implementations extend and organize the course content into a structured learning framework.
 
 ## 🎯 Repository Overview
 
@@ -423,6 +425,7 @@ MIT License - See [LICENSE](LICENSE) file for details
 - **Examples**: Review working code in each module
 
 ### Community Resources
+- **Original Course**: [LangGraph Tutorial - Build AI Agents with Python](https://www.youtube.com/watch?v=jGg_1h0qzaM)
 - **LangGraph Documentation**: [Official LangGraph Docs](https://langchain-ai.github.io/langgraph/)
 - **LangChain Community**: [LangChain Discord](https://discord.gg/langchain)
 - **AI Development**: [AI Engineering Community](https://github.com/langchain-ai)
